@@ -6,4 +6,5 @@ package com.andrewbogdanovich.github.hwtask;
 
 public class Example {
     //add info before cherry pick
+    //cherry pick
 }
