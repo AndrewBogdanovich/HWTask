@@ -11,4 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //add some info to master brunch
     }
+    private void someMethod(){
+        
+    }
 }
