@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         //add some info to master brunch
     }
     private void someMethod(){
+        int var;
         
     }
 }
