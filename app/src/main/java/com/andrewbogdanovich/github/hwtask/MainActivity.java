@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //add some info to master brunch
+        //add submodules
     }
     private void someMethod(){
         int var;
