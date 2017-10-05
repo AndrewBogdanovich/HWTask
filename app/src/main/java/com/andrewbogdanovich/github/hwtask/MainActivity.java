@@ -17,4 +17,7 @@ public class MainActivity extends AppCompatActivity {
     public void secondMethod(){
         
     }
+    private void thirdMethod(){
+        //created method!!!
+    }
 }
