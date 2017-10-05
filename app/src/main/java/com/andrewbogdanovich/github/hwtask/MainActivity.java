@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private void someMethod(){
         int var = 0;
     }
+    public void secondMethod(){
+        
+    }
 }
