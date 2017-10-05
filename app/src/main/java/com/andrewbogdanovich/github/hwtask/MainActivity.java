@@ -14,9 +14,11 @@ public class MainActivity extends AppCompatActivity {
         //cherry pick
     }
     private void someMethod(){
-        int var = 0;
+        int var;
+
     }
-    public void secondMethod(){
-        
+    public void methodTwo()
+    {
+        //some info
     }
 }
