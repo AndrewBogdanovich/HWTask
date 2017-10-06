@@ -25,5 +25,5 @@ public class MainActivity extends AppCompatActivity {
         //created method!!!
         //edit class after stash!
     }
-    
+
 }
