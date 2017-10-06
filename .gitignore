@@ -11,7 +11,6 @@
 # Built application files
 *.apk
 *.ap_
-
 # Files for the ART/Dalvik VM
 *.dex
 
@@ -43,12 +42,7 @@ proguard/
 captures/
 
 # Intellij
-*.iml
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/gradle.xml
-.idea/dictionaries
-.idea/libraries
+.idea/*
 
 # Keystore files
 *.jks
@@ -64,3 +58,5 @@ freeline.py
 freeline/
 freeline_project_description.json
 
+app/libs/
+app/src/main/res/drawable/
