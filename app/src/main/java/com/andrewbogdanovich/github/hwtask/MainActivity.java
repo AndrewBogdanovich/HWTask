@@ -9,5 +9,17 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //add some info to master brunch
+        //added submodules!
+        //cherry pick
     }
+    private void someMethod(){
+        int var;
+        //cherry-pick!!!
+    }
+    private void thirdMethod(){
+        //created method!!!
+        //some info!!!!
+    }
+
 }
