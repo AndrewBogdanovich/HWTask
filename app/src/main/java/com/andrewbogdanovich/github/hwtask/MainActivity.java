@@ -21,10 +21,4 @@ public class MainActivity extends AppCompatActivity {
     {
         //some info
     }
-    private void thirdMethod(){
-        //created method!!!
-    }
-    private void thirdMethod(){
-        //created method!!!
-    }
 }
