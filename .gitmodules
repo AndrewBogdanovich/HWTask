@@ -1,1 +1,4 @@
 
+[submodule "HWTask"]
+	path = HWTask
+	url = https://github.com/AndrewBogdanovich/HWTask
