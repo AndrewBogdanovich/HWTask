@@ -17,12 +17,9 @@ public class MainActivity extends AppCompatActivity {
         int var;
 
     }
-    public void methodTwo()
-    {
-        //some info
-    }
     private void thirdMethod(){
         //created method!!!
+        //some info!!!!
     }
 
 }

@@ -11,7 +11,7 @@ public class Example {
         //info for stash
     }
     public void meth(){
-        
+
     }
 }
 
