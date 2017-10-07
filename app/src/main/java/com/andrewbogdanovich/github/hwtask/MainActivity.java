@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
     }
     private void thirdMethod(){
         //created method!!!
-        //edit class after stash!
     }
 
 }
