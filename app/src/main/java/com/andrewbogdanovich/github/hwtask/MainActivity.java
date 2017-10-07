@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private void someMethod(){
         int var;
-
+        //cherry-pick!!!
     }
     private void thirdMethod(){
         //created method!!!

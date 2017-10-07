@@ -1,5 +1,5 @@
 # HWTask
-EPAM HW 02/10/2017 - 08/10/2017 - Work with git
+    EPAM HW 02/10/2017 - 08/10/2017 - Work with git
 
 # How to delete .idea folder from github:
  1. Recursively delete the directory from the repository (git rm -r --cached .idea)
